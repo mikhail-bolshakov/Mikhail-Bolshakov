@@ -19,12 +19,12 @@ develop solutions to reach company`s vision;
 experience, knowledge of statistics.
 
 
-<center> <p><h2>Competencies</p></h2> </center>
+<center><h2>Competencies</h2> </center>
 
 ELT/ETL, Data Warehousing, Data Analytics, Data Visualization, Multidimensional Modeling.
 
 
-<center> <h2>Tech Stack</h2> </center> 
+<center><h2>Tech Stack</h2></center> 
 
 - **SQL**:
     - PostgreSQL, Snowflake, MySQL,
