@@ -1,5 +1,3 @@
- <center> <h1>Mikhail Bolshakov Portfolio</h1> </center> 
-
 <center> <h2>Profile</h2> </center> 
 Have a strong scientific background in quantitative analysis and
 research. Determined and versatile, I have experience in data
