@@ -1,9 +1,25 @@
 ## Mikhail Bolshakov Portfolio
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikhail-bolshakov/Mikhail-Bolshakov/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Experienced user of:
+- PostgreSQL, MySQL,
+- Power BI (DAX), Tableau,
+- Zapier,
+- Webhooks, RESTful APIs,
+- Jira, Confluence, Asana,
+• Knowledge in building data pipelines to collect, normalize and
+integrate data into data model;
+• Hands-on experience in data modeling and warehousing, task
+scheduling and automation;
+• Understand different business models data needs in order to
+develop solutions to reach company`s vision;
+• Solid scientific background in quantitative field with coding
+experience, knowledge of statistics.
+- AWS Services (DMS,RDS, S3),
+- Python for task automation,
+ETL, API integration with Gsuite,
+Salesforce, AWS S3, database
+migration, pandas, numpy, data
+mining.
+- Salesforce,
+- VCS (Git),
+- GSuite, Office 365.
