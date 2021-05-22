@@ -3391,7 +3391,7 @@ input, select, textarea {
 		}
 
 		#intro p {
-			font-size: 1.25rem;
+			font-size: 1.65rem;
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
@@ -3711,7 +3711,7 @@ input, select, textarea {
 					-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 					transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 					display: block;
-					font-size: 0.8rem;
+					font-size: 0.9rem;
 					outline: none;
 					padding: 0 2rem;
 				}
@@ -4293,7 +4293,7 @@ input, select, textarea {
 		#footer form label,
 		#footer h3,
 		#footer p {
-			font-size: 0.8rem;
+			font-size: 0.9rem;
 		}
 
 		@media screen and (max-width: 980px) {
