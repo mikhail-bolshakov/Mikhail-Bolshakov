@@ -1,4 +1,4 @@
-## Mikhail Bolshakov Portfolio
+<center># Mikhail Bolshakov Portfolio</center>
 
 Experienced user of:
 - PostgreSQL, MySQL,
